@@ -68,7 +68,6 @@ public class Xylophone : MonoBehaviour
     }
 
     private Vector3 pos() {
-        //return new Vector3 (1,1,1);
         return new Vector3 (0.95f,0.95f,1);
     }
 }
