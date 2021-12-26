@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 33441166ed477524799d7143d0054482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8135015677496610379
+    second: Xylohpone_0
+  - first:
+      213: -2426146116144899611
+    second: Xylohpone_1
+  - first:
+      213: 3287630662150554467
+    second: Xylohpone_2
+  - first:
+      213: 4900861445563009716
+    second: Xylohpone_3
+  - first:
+      213: -2369343254752279347
+    second: Xylohpone_4
+  - first:
+      213: 6980868601074345105
+    second: Xylohpone_5
+  - first:
+      213: -9056370440126489619
+    second: Xylohpone_6
+  - first:
+      213: 3631764455760179073
+    second: Xylohpone_7
+  - first:
+      213: 7295185384748567214
+    second: Xylohpone_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xylohpone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 1347
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e4b6358a165e070800000000000000
+      internalID: 8135015677496610379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 99
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12605804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95dfd26f8945ed0800000000000000
+      internalID: -2426146116144899611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 100
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.087914616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638a2a2ba200ad20800000000000000
+      internalID: 3287630662150554467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 100
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07411219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac034d48b530440800000000000000
+      internalID: 4900861445563009716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 99
+        height: 560
+      alignment: 9
+      pivot: {x: 0.51015157, y: 0.06570113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c585fcd66e1fd0800000000000000
+      internalID: -2369343254752279347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 99
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5203037, y: 0.060020518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e6b6a10701e060800000000000000
+      internalID: 6980868601074345105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 100
+        height: 730
+      alignment: 9
+      pivot: {x: 0.5301502, y: 0.051196598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb99e1411f415280800000000000000
+      internalID: -9056370440126489619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 99
+        height: 826
+      alignment: 9
+      pivot: {x: 0.5101528, y: 0.046173017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fa975d78e966230800000000000000
+      internalID: 3631764455760179073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xylohpone_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 99
+        height: 880
+      alignment: 9
+      pivot: {x: 0.5304547, y: 0.04889677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa4f84b474bd3560800000000000000
+      internalID: 7295185384748567214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
